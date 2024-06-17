@@ -7,7 +7,7 @@ Hi, I'm Maksim, front-end developer! 👋
 - **Location:** Serbia, Novi sad
 - **E-mail:** maksimmuhametzyanov11@gmail.com
 - **Discord:** Maksim99745
-- **Telegram:** ([WeChat1244](https://t.me/WeChat1244))
+- **Telegram:** [Write me in the Telegram](https://t.me/WeChat1244)
 - **GitHub:** [Maksim99745](https://github.com/Maksim99745/)
 
 ## About Me
