@@ -38,7 +38,7 @@ I am a junior front-end developer based in Novi Sad, Serbia. I have a background
 | Online shop (server needed)           | [Online shop ](https://ecommerce-sprint-4-release.netlify.app/) |
 | Fun-chat (server needed)          | [Fun-chat ](https://rolling-scopes-school.github.io/maksim99745-JSFE2023Q4/fun-chat/index.html#Login) |
 | Async-race  (server needed)           | [Async-race](https://rolling-scopes-school.github.io/maksim99745-JSFE2023Q4/async-race/index.html) |
-| RSS Puzzle  (server needed)           | [RSS Puzzle](https://rolling-scopes-school.github.io/maksim99745-JSFE2023Q4/rss-puzzle/index.html) |
+| RSS Puzzle        | [RSS Puzzle](https://rolling-scopes-school.github.io/maksim99745-JSFE2023Q4/rss-puzzle/index.html) |
 | Nonograms-game     | [Nonograms-game](https://rolling-scopes-school.github.io/maksim99745-JSFE2023Q4/nonograms//index.html) |
 | Hangman-game       | [Hangman-game](https://rolling-scopes-school.github.io/maksim99745-JSFE2023Q4/hangman/index.html) |
 | Tic-tac-toe        | [Tic-tac-toe ](https://rolling-scopes-school.github.io/maksim99745-JSFEPRESCHOOL2023Q2/tic-tac-toe/) |
