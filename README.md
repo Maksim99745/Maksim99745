@@ -8,7 +8,7 @@ Hi, I'm Maksim, front-end developer! 👋
 - **E-mail:** [Send me email](mailto:maksimmuhametzyanov11@gmail.com)
 - **Discord:** Maksim99745
 - **Telegram:** [Send me a message in telegram](WeChat1244)
-- **GitHub:** [Tetiana-KET](https://github.com/Maksim99745/)
+- **GitHub:** [Maksim99745](https://github.com/Maksim99745/)
 
 ## About Me
 
