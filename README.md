@@ -12,7 +12,9 @@ Hi, I'm Maksim, front-end developer! 👋
 
 ## About Me
 
-## Skills and Tools
+I am a junior front-end developer based in Novi Sad, Serbia. I have a background as a teacher in public schools, which significantly enhanced my social skills and communication strategies, which are invaluable for effective teamwork. Currently am taking the RS School front-end course and 1 year every day enjoying coding.  I am proficient in English and Turkish, and I am currently learning Serbian. In my free time, I enjoy cycling and going to the gym.
+
+## Skack and Tools
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
