@@ -35,16 +35,15 @@ I am a junior front-end developer based in Novi Sad, Serbia. I have a background
 
 | Project Title      | Deploy Link       |
 |--------------------|-------------------|
-| RSS Puzzle         | [RSS Puzzle](RSS Puzzle) |
-| Nonograms-game     | [Nonograms-game](Nonograms-game) |
-| Hangman-game       | [Hangman-game](Hangman-game) |
-| Coffee-house       | [Coffee-house](Coffee-house) |
-| Library            | [Library](Library) |
-| Css Bayan          | [Css Bayan](Css Bayan) |
-| Plants             | [Plants](Plants) |
-| Virtual-keyboard   | [Virtual-keyboard](Virtual-keyboard) |
-| Shelter            | [Shelter](Shelter) |
-| Minesweeper        | [Minesweeper](Minesweeper) |
-| Travel             | [Travel](Travel) |
-| Oneline-Zoo        | [Oneline-Zoo](Oneline-Zoo) |
+| Online shop        | [Online shop ](https://ecommerce-sprint-4-release.netlify.app/) |
+| Fun-chat           | [Fun-chat ](https://rolling-scopes-school.github.io/maksim99745-JSFE2023Q4/fun-chat/index.html#Login) |
+| Async-race         | [Async-race](https://rolling-scopes-school.github.io/maksim99745-JSFE2023Q4/async-race/index.html) |
+| RSS Puzzle         | [RSS Puzzle](https://rolling-scopes-school.github.io/maksim99745-JSFE2023Q4/rss-puzzle/index.html) |
+| Nonograms-game     | [Nonograms-game](https://rolling-scopes-school.github.io/maksim99745-JSFE2023Q4/nonograms//index.html) |
+| Hangman-game       | [Hangman-game](https://rolling-scopes-school.github.io/maksim99745-JSFE2023Q4/hangman/index.html) |
+| Tic-tac-toe        | [Tic-tac-toe ](https://rolling-scopes-school.github.io/maksim99745-JSFEPRESCHOOL2023Q2/tic-tac-toe/)) |
+| Unsplash API       | [Image galery](https://rolling-scopes-school.github.io/maksim99745-JSFEPRESCHOOL2023Q2/image-galery/)|
+| Audio player       | [Audio player](https://rolling-scopes-school.github.io/maksim99745-JSFEPRESCHOOL2023Q2/audio-player/) |
+| Coffee-house       | [Coffee-house](https://rolling-scopes-school.github.io/maksim99745-JSFE2023Q4/Coffee-House/index.html) |
+| Css mem slider     | [Css mem slider ](https://maksim99745.github.io/cssMemeSlider/cssMemeSlider/index.html) |
 
