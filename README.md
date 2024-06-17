@@ -30,3 +30,21 @@ I am a junior front-end developer based in Novi Sad, Serbia. I have a background
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Husky](https://img.shields.io/badge/Husky-3572A5?style=for-the-badge&logo=husky&logoColor=white)
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)
+
+## My projects
+
+| Project Title      | Deploy Link       |
+|--------------------|-------------------|
+| RSS Puzzle         | [RSS Puzzle](RSS Puzzle) |
+| Nonograms-game     | [Nonograms-game](Nonograms-game) |
+| Hangman-game       | [Hangman-game](Hangman-game) |
+| Coffee-house       | [Coffee-house](Coffee-house) |
+| Library            | [Library](Library) |
+| Css Bayan          | [Css Bayan](Css Bayan) |
+| Plants             | [Plants](Plants) |
+| Virtual-keyboard   | [Virtual-keyboard](Virtual-keyboard) |
+| Shelter            | [Shelter](Shelter) |
+| Minesweeper        | [Minesweeper](Minesweeper) |
+| Travel             | [Travel](Travel) |
+| Oneline-Zoo        | [Oneline-Zoo](Oneline-Zoo) |
+
