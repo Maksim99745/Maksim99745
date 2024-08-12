@@ -4,7 +4,6 @@ Hi, I'm Maksim, front-end developer! 👋
 
 ## My Contacts
 
-- **Location:** Serbia, Novi sad
 - **E-mail:** maksimmuhametzyanov11@gmail.com
 - **Discord:** Maksim99745
 - **Telegram:** [Write me in the Telegram](https://t.me/WeChat1244)
@@ -12,7 +11,7 @@ Hi, I'm Maksim, front-end developer! 👋
 
 ## About Me
 
-I am a junior front-end developer based in Novi Sad, Serbia. Currently am taking the RS School front-end course and 1 year every day enjoying coding. My stack: HTML, CSS, SCSS, JS/TS, React, Webpack, Vite, Jest. I have a background as a teacher in public schools, which significantly enhanced my social skills and communication strategies, which are invaluable for effective teamwork. I am proficient in English and Turkish, and I am currently learning Serbian. In my free time, I enjoy cycling and going to the gym.
+I am a front-end developer. My stack: HTML, CSS, SCSS, JS/TS, React, Redux, Signals, Webpack, Vite, Jest-Vitest. I have a background as a teacher in public schools, which significantly enhanced my social skills and communication strategies, which are invaluable for effective teamwork. I am proficient in English, Turkish and currently learning Serbian. In my free time, I enjoy cycling and going to the gym.
 
 ## Skack and Tools
 
