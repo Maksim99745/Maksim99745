@@ -37,7 +37,7 @@ I am a front-end developer. My stack: HTML, CSS, SCSS, JS/TS, React, Redux, Sign
 | Advanced projects    |
 | Snake-game (React)         | [Snake](https://snake-game--rainbow-mooncake-8667c4.netlify.app/) |
 | React-forms (React-hook-forms)        | [React-forms  ](https://forms--unique-beijinho-c6beb5.netlify.app/) |
-| Star-wars library  (NextJs)           | [Star-wars library] (https://fggdgdfddddg.vercel.app/) |
+| Star-wars library  (NextJs)           | [Star-wars library](https://fggdgdfddddg.vercel.app/) |
 | Online shop (server needed)           | [Online shop ](https://ecommerce-sprint-4-release.netlify.app/) |
 | Fun-chat (server needed)          | [Fun-chat ](https://rolling-scopes-school.github.io/maksim99745-JSFE2023Q4/fun-chat/index.html#Login) |
 | Async-race  (server needed)           | [Async-race](https://rolling-scopes-school.github.io/maksim99745-JSFE2023Q4/async-race/index.html) |
