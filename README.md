@@ -37,7 +37,7 @@ I am a front-end developer. My stack: HTML, CSS, SCSS, JS/TS, React, Redux, Sign
 | Project Title      | Deploy Link       |
 |--------------------|-------------------|
 | Advanced projects    |
-| CRUD-tables (React)         | [Tables](https://develop--incandescent-melba-e31025.netlify.app/main) |
+| CRUD-tables (React)         | [Tables] (https://incandescent-melba-e31025.netlify.app) |
 | Snake-game (React)         | [Snake](https://snake-game--rainbow-mooncake-8667c4.netlify.app/) |
 | React-forms (React-hook-forms)        | [React-forms  ](https://forms--unique-beijinho-c6beb5.netlify.app/) |
 | Star-wars library  (NextJs)           | [Star-wars library](https://fggdgdfddddg.vercel.app/) |
