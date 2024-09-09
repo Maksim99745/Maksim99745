@@ -35,12 +35,13 @@ I am a front-end developer. My stack: HTML, CSS, SCSS, JS/TS, React, Redux, Sign
 | Project Title      | Deploy Link       |
 |--------------------|-------------------|
 | Advanced projects    |
+| CRUD-tables (React)         | [Tables](https://develop--incandescent-melba-e31025.netlify.app/main) |
 | Snake-game (React)         | [Snake](https://snake-game--rainbow-mooncake-8667c4.netlify.app/) |
 | React-forms (React-hook-forms)        | [React-forms  ](https://forms--unique-beijinho-c6beb5.netlify.app/) |
 | Star-wars library  (NextJs)           | [Star-wars library](https://fggdgdfddddg.vercel.app/) |
-| Online shop (server needed)           | [Online shop ](https://ecommerce-sprint-4-release.netlify.app/) |
-| Fun-chat (server needed)          | [Fun-chat ](https://rolling-scopes-school.github.io/maksim99745-JSFE2023Q4/fun-chat/index.html#Login) |
-| Async-race  (server needed)           | [Async-race](https://rolling-scopes-school.github.io/maksim99745-JSFE2023Q4/async-race/index.html) |
+| Online shop (server needed)           | [Online shop ](https://github.com/Maksim99745/eCommerce-Application) |
+| Fun-chat (server needed)          | [Fun-chat ](https://github.com/Maksim99745/fun-chat-2) |
+| Async-race  (server needed)           | [Async-race](https://github.com/Maksim99745/async-race-personal) |
 | RSS Puzzle        | [RSS Puzzle](https://rolling-scopes-school.github.io/maksim99745-JSFE2023Q4/rss-puzzle/index.html) |
 | Nonograms-game     | [Nonograms-game](https://rolling-scopes-school.github.io/maksim99745-JSFE2023Q4/nonograms//index.html) |
 | Hangman-game       | [Hangman-game](https://rolling-scopes-school.github.io/maksim99745-JSFE2023Q4/hangman/index.html) |
