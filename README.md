@@ -3,7 +3,8 @@
 Hi, I'm Maksim, front-end developer! 👋
 
 ## My Contacts
-- **CV:** 
+> ## 💎 **[📄 View My CV →](https://drive.google.com/file/d/1x7yifa_95Yd7bzjnMHm1jd4h0Zvq5J3r/view?usp=sharing)**
+> 🧠 _A concise overview of my experience, projects, and skills._
 - **E-mail:** maksimmuhametzyanov11@gmail.com
 - **Discord:** Maksim99745
 - **Telegram:** [Write me in the Telegram](https://t.me/WeChat1244)
