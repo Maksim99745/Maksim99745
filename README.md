@@ -3,7 +3,7 @@
 Hi, I'm Maksim, front-end developer! 👋
 
 ## My Contacts
-
+- **CV:** 
 - **E-mail:** maksimmuhametzyanov11@gmail.com
 - **Discord:** Maksim99745
 - **Telegram:** [Write me in the Telegram](https://t.me/WeChat1244)
@@ -11,7 +11,13 @@ Hi, I'm Maksim, front-end developer! 👋
 
 ## About Me
 
-I am a front-end developer. My stack: HTML, CSS, SCSS, JS/TS, React, Redux, Signals, Webpack, Vite, Jest-Vitest. I have a background as a teacher in public schools, which significantly enhanced my social skills and communication strategies, which are invaluable for effective teamwork. I am proficient in English, Turkish and currently learning Serbian. In my free time, I enjoy cycling and going to the gym.
+I am a Front-End Developer with 1.5 years of 
+experience. Successfully finished 15-month 
+training at EPAM Group.
+Currently, I work on a major HR platform at 
+PRYANIKY. My primary specialization is React. I 
+am fluent in English, Turkish, and Serbian.
+In my free time, I enjoy cycling and going to the gym.
 
 ## Stack and Tools
 
@@ -36,7 +42,6 @@ I am a front-end developer. My stack: HTML, CSS, SCSS, JS/TS, React, Redux, Sign
 
 | Project Title      | Deploy Link       |
 |--------------------|-------------------|
-| Advanced projects    |
 | CRUD-tables (React) (Login only with password - password)        | [Tables](https://incandescent-melba-e31025.netlify.app) |
 | Snake-game (React)         | [Snake](https://snake-game--rainbow-mooncake-8667c4.netlify.app/) |
 | React-forms (React-hook-forms)        | [React-forms  ](https://forms--unique-beijinho-c6beb5.netlify.app/) |
@@ -47,7 +52,6 @@ I am a front-end developer. My stack: HTML, CSS, SCSS, JS/TS, React, Redux, Sign
 | RSS Puzzle        | [RSS Puzzle](https://rolling-scopes-school.github.io/maksim99745-JSFE2023Q4/rss-puzzle/index.html) |
 | Nonograms-game     | [Nonograms-game](https://rolling-scopes-school.github.io/maksim99745-JSFE2023Q4/nonograms//index.html) |
 | Hangman-game       | [Hangman-game](https://rolling-scopes-school.github.io/maksim99745-JSFE2023Q4/hangman/index.html) |
-| Simple projects      |
 | Tic-tac-toe        | [Tic-tac-toe ](https://rolling-scopes-school.github.io/maksim99745-JSFEPRESCHOOL2023Q2/tic-tac-toe/) |
 | Unsplash API       | [Image galery](https://rolling-scopes-school.github.io/maksim99745-JSFEPRESCHOOL2023Q2/image-galery/)|
 | Audio player       | [Audio player](https://rolling-scopes-school.github.io/maksim99745-JSFEPRESCHOOL2023Q2/audio-player/) |
