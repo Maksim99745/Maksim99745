@@ -43,6 +43,7 @@ In my free time, I enjoy cycling and going to the gym.
 
 | Project Title      | Deploy Link       |
 |--------------------|-------------------|
+| Real working wideogames online shop     | [TG](@paybrobot) |
 | CRUD-tables (React) (Login only with password - password)        | [Tables](https://incandescent-melba-e31025.netlify.app) |
 | Snake-game (React)         | [Snake](https://snake-game--rainbow-mooncake-8667c4.netlify.app/) |
 | React-forms (React-hook-forms)        | [React-forms  ](https://forms--unique-beijinho-c6beb5.netlify.app/) |
