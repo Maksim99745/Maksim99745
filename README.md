@@ -43,7 +43,7 @@ In my free time, I enjoy cycling and going to the gym.
 | Project Title      | Deploy Link       | More info       |
 |--------------------|-------------------|-------------------|
 | Real working wideogames online shop with bot on NodeJS    | [TG](https://t.me/paybrobot) | [Presentation](https://abistep.ru/case_psn) |
-| Sushi shop | [TG](https://t.me/Delivery_and_order_bot)  | [Presentation](https://abistep.ru/case_sushilka)) |
+| Sushi shop with JQuery | [TG](https://t.me/Delivery_and_order_bot)  | [Presentation](https://abistep.ru/case_sushilka)|
 
 ## My school projects
 
