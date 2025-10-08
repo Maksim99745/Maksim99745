@@ -16,7 +16,7 @@ I am a Front-End Developer with 1.5 years of
 experience. Successfully finished 15-month 
 training at EPAM Group.
 Currently, I work on a major HR platform at 
-PRYANIKY. My primary specialization is React. I 
+[PRYANIKY](https://pryaniky.com/en/hr-platform-pryaniky/). My primary specialization is React. I 
 am fluent in English, Turkish, and Serbian.
 In my free time, I enjoy cycling and going to the gym.
 
