@@ -38,12 +38,17 @@ In my free time, I enjoy cycling and going to the gym.
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Husky](https://img.shields.io/badge/Husky-3572A5?style=for-the-badge&logo=husky&logoColor=white)
 
-
-## My projects
+## My commercial projects
 
 | Project Title      | Deploy Link       |
 |--------------------|-------------------|
-| Real working wideogames online shop     | [TG](@paybrobot) |
+| Real working wideogames online shop with bot on NodeJS    | [TG](https://t.me/paybrobot) | [Статья о проекте] (https://abistep.ru/case_psn) |
+| Sushi shop | [TG](https://t.me/Delivery_and_order_bot)  | [Статья о проекте] (https://abistep.ru/case_sushilka)) |
+
+## My school projects
+
+| Project Title      | Deploy Link       |
+|--------------------|-------------------|
 | CRUD-tables (React) (Login only with password - password)        | [Tables](https://incandescent-melba-e31025.netlify.app) |
 | Snake-game (React)         | [Snake](https://snake-game--rainbow-mooncake-8667c4.netlify.app/) |
 | React-forms (React-hook-forms)        | [React-forms  ](https://forms--unique-beijinho-c6beb5.netlify.app/) |
