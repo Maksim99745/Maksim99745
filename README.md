@@ -1,25 +1,16 @@
 # Maksim99745
 
-Hi, I'm Maksim, a front-end developer! 👋
+## About Me
+
+My name is Maksim, and I am a Front-end developer. I have experience in both agency and product development. Currently, I am working on a large HR platform at PRYANIKY, where I develop with React, build bots using Node.js, and communicate closely with clients and business stakeholders.
+
+I also have experience building a video game store from scratch, a food delivery website, and mini-games for Telegram Mini Apps optimized for mobile devices.
 
 ## My Contacts
 - **E-mail:** maksimmuhametzyanov11@gmail.com
 - **Discord:** Maksim99745
 - **Telegram:** [Write me in the Telegram](https://t.me/Maksim99745)
 - **GitHub:** [Maksim99745](https://github.com/Maksim99745/)
-
-## About Me
-
-Front-end Developer with 3 years of
- experience.
- Currently working on a large HR
- platform — [Pryaniki](https://pryaniky.com/en/hr-platform-pryaniky/), where I develop features
- using React, estimate development
- effort and cost, build components and
- commercial modules, and fix bugs for
- clients such as the Moscow
- Exchange, Armtek, Baltika, Alfa
-Leasing, and others. 
 
 ## Stack and Tools
 
