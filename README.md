@@ -44,7 +44,7 @@ Leasing, and others.
 
 | Project Title      | Deploy Link       | More info       |
 |--------------------|-------------------|-------------------|
-| Pronađi Delo (Find an autopart)   |  | Cheap autoparts aggregator on Vue |
+| Pronađi Delo |[Find an autopart in Serbia]( https://pronadi-delo.vercel.app/) | Cheap autoparts aggregator on Vue |
 | Video-games online shop with bot on NodeJS    | [TG](https://t.me/paybrobot) | [Presentation](https://abistep.ru/case_psn) |
 | Sushi shop with JQuery | [TG](https://t.me/Delivery_and_order_bot)  | [Presentation](https://abistep.ru/case_sushilka)|
 | Spotify payment bot| [TG](https://t.me/Spotify_99745_bot)  |
