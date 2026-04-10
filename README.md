@@ -37,7 +37,7 @@ I also have experience building a video game store from scratch, a food delivery
 |--------------------|-------------------|-------------------|
 | Pronađi Delo |[Find an autopart in Serbia]( https://pronadi-delo.vercel.app/) | Cheap autoparts aggregator on Vue |
 | Video-games online shop with bot on NodeJS    | [TG](https://t.me/paybrobot) | [Presentation](https://abistep.ru/case_psn) |
-| Sushi shop with JQuery | [TG](https://t.me/Delivery_and_order_bot)  | [Presentation](https://abistep.ru/case_sushilka)|
+| Sushi shop with JQuery |  | [Presentation](https://abistep.ru/case_sushilka)|
 | Spotify payment bot| [TG](https://t.me/Spotify_99745_bot)  |
 | Playable ad |[Lending](https://adlending.netlify.app)|
 | History animations (GSAP animations) | [Deploy](https://endearing-dragon-f50828.netlify.app/) |
