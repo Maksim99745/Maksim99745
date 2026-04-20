@@ -37,21 +37,8 @@ I also have experience building a video game store from scratch, a food delivery
 |--------------------|-------------------|-------------------|
 | Pronađi Delo |[Find an autopart in Serbia]( https://pronadi-delo.vercel.app/) | Cheap autoparts aggregator on Vue |
 | Video-games online shop with bot on NodeJS    | [TG](https://t.me/paybrobot) | [Presentation](https://abistep.ru/case_psn) |
-| Sushi shop with JQuery |  | [Presentation](https://abistep.ru/case_sushilka)|
 | Spotify payment bot| [TG](https://t.me/Spotify_99745_bot)  |
 | Playable ad |[Lending](https://adlending.netlify.app)|
+| Sushi shop with JQuery |  | [Presentation](https://abistep.ru/case_sushilka)|
 | History animations (GSAP animations) | [Deploy](https://endearing-dragon-f50828.netlify.app/) |
 | Slot stars game | [Deploy - only mobile](https://tiny-pony-06116b.netlify.app/) |
-| Coffee-house       | [Coffee-house](https://rolling-scopes-school.github.io/maksim99745-JSFE2023Q4/Coffee-House/index.html) |
-| Chat analitics Bot | [Repo](https://github.com/Maksim99745/Chat_weather_bot) |
-| React-forms (React-hook-forms)        | [React-forms  ](https://forms--unique-beijinho-c6beb5.netlify.app/) |
-| Star-wars library  (NextJs)           | [Star-wars library](https://fggdgdfddddg.vercel.app/) |
-| Snake-game (React)         | [Snake](https://snake-game--rainbow-mooncake-8667c4.netlify.app/) |
-| Nonograms-game     | [Nonograms-game](https://rolling-scopes-school.github.io/maksim99745-JSFE2023Q4/nonograms//index.html) |
-| Hangman-game       | [Hangman-game](https://rolling-scopes-school.github.io/maksim99745-JSFE2023Q4/hangman/index.html) |
-| Tic-tac-toe        | [Tic-tac-toe ](https://rolling-scopes-school.github.io/maksim99745-JSFEPRESCHOOL2023Q2/tic-tac-toe/) |
-| Puzzles        | [Puzzle](https://rolling-scopes-school.github.io/maksim99745-JSFE2023Q4/rss-puzzle/index.html) |
-| Unsplash API       | [Image galery](https://rolling-scopes-school.github.io/maksim99745-JSFEPRESCHOOL2023Q2/image-galery/)|
-| Audio player       | [Audio player](https://rolling-scopes-school.github.io/maksim99745-JSFEPRESCHOOL2023Q2/audio-player/) |
-| Css mem slider     | [Css mem slider ](https://maksim99745.github.io/cssMemeSlider/cssMemeSlider/index.html) |
-
