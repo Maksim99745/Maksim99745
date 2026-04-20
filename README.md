@@ -39,6 +39,6 @@ I also have experience building a video game store from scratch, a food delivery
 | Video-games online shop with bot on NodeJS    | [TG](https://t.me/paybrobot) | [Presentation](https://abistep.ru/case_psn) |
 | Spotify payment bot| [TG](https://t.me/Spotify_99745_bot)  |
 | Playable ad |[Lending](https://adlending.netlify.app)|
-| Sushi shop with JQuery |  | [Presentation](https://abistep.ru/case_sushilka)|
 | History animations (GSAP animations) | [Deploy](https://endearing-dragon-f50828.netlify.app/) |
 | Slot stars game | [Deploy - only mobile](https://tiny-pony-06116b.netlify.app/) |
+| Sushi shop with JQuery |  | [Presentation](https://abistep.ru/case_sushilka)|
